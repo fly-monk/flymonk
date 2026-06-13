@@ -1,0 +1,15 @@
+{
+  "type": "micro",
+  "wake_word": "Mrs hudson",
+  "author": "microwakeword.com",
+  "website": "https://microwakeword.com",
+  "model": "mrs_hudson.tflite",
+  "trained_languages": [
+    "en"
+  ],
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.93,
+    "sliding_window_average_size": 5
+  }
+}
