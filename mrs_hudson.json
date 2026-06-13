@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Mrs hudson",
+  "wake_word": "Mrs_hudson",
   "author": "microwakeword.com",
   "website": "https://microwakeword.com",
   "model": "mrs_hudson.tflite",
